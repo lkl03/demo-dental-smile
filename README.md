@@ -1,2 +1,7 @@
-# demo-dental-smile
-Demo web para Dental Smile — diseñada por eterlab.
+# Dental Smile
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
